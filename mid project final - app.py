@@ -1116,12 +1116,12 @@
     }
    ],
    "source": [
-    "df.isnull().sum()"
+    "df.isNone().sum()"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "f1fd7cda-7ec6-409f-aebe-118308ebc38c",
    "metadata": {},
    "outputs": [],
@@ -1157,7 +1157,7 @@
     }
    ],
    "source": [
-    "df.isnull().mean()*100"
+    "df.isNone().mean()*100"
    ]
   },
   {
@@ -1190,7 +1190,7 @@
     }
    ],
    "source": [
-    "df.isnull().sum()"
+    "df.isNone().sum()"
    ]
   },
   {
@@ -1368,7 +1368,7 @@
     }
    ],
    "source": [
-    "df.isnull().sum()"
+    "df.isNone().sum()"
    ]
   },
   {
